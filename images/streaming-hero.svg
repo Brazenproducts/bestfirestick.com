@@ -1,0 +1,14 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#161616"/>
+  <circle cx="1300" cy="170" r="230" fill="#E74C3C" fill-opacity="0.16"/>
+  <circle cx="260" cy="710" r="240" fill="#7C3AED" fill-opacity="0.12"/>
+  <rect x="420" y="230" width="780" height="430" rx="30" fill="#242424" stroke="#E74C3C" stroke-width="6"/>
+  <rect x="470" y="280" width="680" height="310" rx="18" fill="#101010"/>
+  <rect x="670" y="660" width="280" height="18" rx="9" fill="#444"/>
+  <rect x="720" y="700" width="180" height="18" rx="9" fill="#E74C3C"/>
+  <circle cx="620" cy="435" r="68" fill="#E74C3C" fill-opacity="0.92"/>
+  <path d="M595 395L665 435L595 475V395Z" fill="#FFF"/>
+  <text x="120" y="150" fill="#FFE9E6" font-family="Oswald, Arial, sans-serif" font-size="84" font-weight="700">STREAMING</text>
+  <text x="120" y="230" fill="#E74C3C" font-family="Oswald, Arial, sans-serif" font-size="84" font-weight="700">DEVICE PICKS</text>
+  <text x="120" y="310" fill="#B9B9B9" font-family="Inter, Arial, sans-serif" font-size="32">Fire TV, Roku, Chromecast, and Apple TV compared without the fluff.</text>
+</svg>
