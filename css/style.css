@@ -95,7 +95,7 @@ h1,h2,h3,h4,h5{font-family:var(--font-heading);text-transform:uppercase;letter-s
 .product-card .btn-amazon.alt-violet:hover{background:#6d28d9}
 
 /* ===== CATEGORY CARDS (homepage) ===== */
-.category-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:1.5rem;margin:2rem 0}
+.category-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:1.5rem;margin:2rem 0}
 .cat-card{background:var(--card-bg);border:1px solid var(--border-color);border-radius:var(--radius);padding:1.8rem;text-align:center;transition:all .2s}
 .cat-card:hover{border-color:var(--fire-red);transform:translateY(-3px);box-shadow:0 8px 25px rgba(0,0,0,.3)}
 .cat-card .icon{font-size:2.5rem;margin-bottom:.8rem}
